@@ -12,6 +12,7 @@
   - Edge-edge cases
 
 - Result 
+
   ![](figure/rigid-body-rk2.gif)
   
 > TAMU CSCE649, Fall 2022
