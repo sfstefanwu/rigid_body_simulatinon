@@ -10,3 +10,6 @@
 - Collision detection and handling
   - Face-vertex cases
   - Edge-edge cases
+
+- Result 
+  ![](figure/rigid-body-rk2.gif)
