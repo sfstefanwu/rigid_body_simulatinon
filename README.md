@@ -1,5 +1,5 @@
 # Rigid Body Simulation
-- A polyhedral object moves around within the environment and exhibit both *linear* and *rotational* motion.
+- A polyhedral object moves around within the environment and exhibit both *linear* and *rotational* motion
   - Handle mass, orientation/rotation, angular velocity, and angular moment of inertia
 
 - Integrator
